@@ -1,0 +1,1 @@
+export const fetchUserProfile = async (userId) => { /* API call */ };
